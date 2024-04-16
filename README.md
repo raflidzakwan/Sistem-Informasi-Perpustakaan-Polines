@@ -1,1 +1,1 @@
-# php-perpustakaan_sederhana
+# Sistem Informasi Perpustakaan POLINES
